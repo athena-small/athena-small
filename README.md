@@ -1,4 +1,6 @@
-### Hi there 👋
+### Athena Small, Associate Professor, Kyiv School of Economics
+
+I am an economist, decision scientist, and writer. I teach and do research at Kyiv School of Economics. I live in Kyiv, Ukraine. #SlavaUkraini
 
 <!--
 **athena-small/athena-small** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
